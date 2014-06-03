@@ -1,0 +1,6 @@
+br.cristiano.madrugada.Calculadora calc = new br.cristiano.madrugada.Calculadora();
+calc.somar(10, 2);
+calc.dividir(400, 16);
+calc.subtrair(465, 235);
+calc.multiplicar(25, 4);
+23 + 5
